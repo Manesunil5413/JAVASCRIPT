@@ -1,0 +1,2 @@
+# JAVASCRIPT
+welcome to JS
